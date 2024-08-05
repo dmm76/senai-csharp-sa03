@@ -39,3 +39,16 @@ C:\SENAI_APP\PROJETO_DE_APLICATIVO_SENAI-20240805T144822Z-001\PROJETO_DE_APLICAT
 C:\SENAI_APP\PROJETO_DE_APLICATIVO_SENAI-20240805T144822Z-001\PROJETO_DE_APLICATIVO_SENAI\CRUD\obj\Debug\CRUD.csproj.CoreCompileInputs.cache
 C:\SENAI_APP\PROJETO_DE_APLICATIVO_SENAI-20240805T144822Z-001\PROJETO_DE_APLICATIVO_SENAI\CRUD\obj\Debug\CRUD.exe
 C:\SENAI_APP\PROJETO_DE_APLICATIVO_SENAI-20240805T144822Z-001\PROJETO_DE_APLICATIVO_SENAI\CRUD\obj\Debug\CRUD.pdb
+C:\Users\Master10\Documents\GitHub\senai-csharp-sa03\bin\Debug\DbCliente.mdf
+C:\Users\Master10\Documents\GitHub\senai-csharp-sa03\bin\Debug\DbCliente_log.ldf
+C:\Users\Master10\Documents\GitHub\senai-csharp-sa03\bin\Debug\CRUD.exe.config
+C:\Users\Master10\Documents\GitHub\senai-csharp-sa03\bin\Debug\CRUD.exe
+C:\Users\Master10\Documents\GitHub\senai-csharp-sa03\bin\Debug\CRUD.pdb
+C:\Users\Master10\Documents\GitHub\senai-csharp-sa03\obj\Debug\CRUD.csproj.AssemblyReference.cache
+C:\Users\Master10\Documents\GitHub\senai-csharp-sa03\obj\Debug\CRUD.FrmCliente.resources
+C:\Users\Master10\Documents\GitHub\senai-csharp-sa03\obj\Debug\CRUD.frmPrincipal.resources
+C:\Users\Master10\Documents\GitHub\senai-csharp-sa03\obj\Debug\CRUD.Properties.Resources.resources
+C:\Users\Master10\Documents\GitHub\senai-csharp-sa03\obj\Debug\CRUD.csproj.GenerateResource.cache
+C:\Users\Master10\Documents\GitHub\senai-csharp-sa03\obj\Debug\CRUD.csproj.CoreCompileInputs.cache
+C:\Users\Master10\Documents\GitHub\senai-csharp-sa03\obj\Debug\CRUD.exe
+C:\Users\Master10\Documents\GitHub\senai-csharp-sa03\obj\Debug\CRUD.pdb

@@ -21,7 +21,7 @@ namespace CRUD
 
         public string cidade { get; set; }
 
-        SqlConnection con = new SqlConnection("Data Source=(LocalDB)\\MSSQLLocalDB;AttachDbFilename=C:\\SENAI_APP\\PROJETO_DE_APLICATIVO_SENAI-20240805T144822Z-001\\PROJETO_DE_APLICATIVO_SENAI\\CRUD\\DbCliente.mdf;Integrated Security=True");
+        SqlConnection con = new SqlConnection("Data Source=(LocalDB)\\MSSQLLocalDB;AttachDbFilename=C:\\Users\\Master10\\Documents\\GitHub\\senai-csharp-sa03\\DbCliente.mdf;Integrated Security=True");
     
         /* METODOS */
         
